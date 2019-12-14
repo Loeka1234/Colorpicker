@@ -1,0 +1,99 @@
+C:\Users\PC-Loeka\Desktop\visual studio\colors\bin\Debug\colors.exe.config
+C:\Users\PC-Loeka\Desktop\visual studio\colors\bin\Debug\colors.exe
+C:\Users\PC-Loeka\Desktop\visual studio\colors\bin\Debug\colors.pdb
+C:\Users\PC-Loeka\Desktop\visual studio\colors\obj\Debug\colors.csprojAssemblyReference.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors\obj\Debug\colors.Form1.resources
+C:\Users\PC-Loeka\Desktop\visual studio\colors\obj\Debug\colors.Properties.Resources.resources
+C:\Users\PC-Loeka\Desktop\visual studio\colors\obj\Debug\colors.csproj.GenerateResource.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors\obj\Debug\colors.csproj.CoreCompileInputs.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors\obj\Debug\colors.exe
+C:\Users\PC-Loeka\Desktop\visual studio\colors\obj\Debug\colors.pdb
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie\bin\Debug\colors.exe.config
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie\bin\Debug\colors.exe
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie\bin\Debug\colors.pdb
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie\obj\Debug\colors.csprojAssemblyReference.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie\obj\Debug\colors.Form1.resources
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie\obj\Debug\colors.Properties.Resources.resources
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie\obj\Debug\colors.csproj.GenerateResource.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie\obj\Debug\colors.csproj.CoreCompileInputs.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie\obj\Debug\colors.exe
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie\obj\Debug\colors.pdb
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie\bin\Debug\colors.exe.config
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie\bin\Debug\colors.exe
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie\bin\Debug\colors.pdb
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie\obj\Debug\colors.csprojAssemblyReference.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie\obj\Debug\colors.Form1.resources
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie\obj\Debug\colors.Properties.Resources.resources
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie\obj\Debug\colors.csproj.GenerateResource.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie\obj\Debug\colors.csproj.CoreCompileInputs.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie\obj\Debug\colors.exe
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie\obj\Debug\colors.pdb
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie\bin\Debug\colors.exe.config
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie\bin\Debug\colors.exe
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie\bin\Debug\colors.pdb
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie\obj\Debug\colors.csprojAssemblyReference.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie\obj\Debug\colors.Form1.resources
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie\obj\Debug\colors.Properties.Resources.resources
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie\obj\Debug\colors.csproj.GenerateResource.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie\obj\Debug\colors.csproj.CoreCompileInputs.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie\obj\Debug\colors.exe
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie\obj\Debug\colors.pdb
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie\bin\Debug\colors.exe.config
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie\bin\Debug\colors.exe
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie\bin\Debug\colors.pdb
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie\obj\Debug\colors.csprojAssemblyReference.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie\obj\Debug\colors.Form1.resources
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie\obj\Debug\colors.Properties.Resources.resources
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie\obj\Debug\colors.csproj.GenerateResource.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie\obj\Debug\colors.csproj.CoreCompileInputs.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie\obj\Debug\colors.exe
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie\obj\Debug\colors.pdb
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csprojAssemblyReference.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.Form1.resources
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.Properties.Resources.resources
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csproj.GenerateResource.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csproj.CoreCompileInputs.cache
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.exe
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.pdb
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.exe.config
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.exe
+C:\Users\PC-Loeka\Desktop\visual studio\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.pdb
+C:\Users\leerlingk004\Documents\visual studio\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.exe.config
+C:\Users\leerlingk004\Documents\visual studio\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.exe
+C:\Users\leerlingk004\Documents\visual studio\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.pdb
+C:\Users\leerlingk004\Documents\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csprojAssemblyReference.cache
+C:\Users\leerlingk004\Documents\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.Form1.resources
+C:\Users\leerlingk004\Documents\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.Properties.Resources.resources
+C:\Users\leerlingk004\Documents\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csproj.GenerateResource.cache
+C:\Users\leerlingk004\Documents\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csproj.CoreCompileInputs.cache
+C:\Users\leerlingk004\Documents\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.exe
+C:\Users\leerlingk004\Documents\visual studio\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.pdb
+C:\Users\game-PC_Loeka\Desktop\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.exe.config
+C:\Users\game-PC_Loeka\Desktop\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.exe
+C:\Users\game-PC_Loeka\Desktop\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.pdb
+C:\Users\game-PC_Loeka\Desktop\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csprojResolveAssemblyReference.cache
+C:\Users\game-PC_Loeka\Desktop\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.Form1.resources
+C:\Users\game-PC_Loeka\Desktop\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.Properties.Resources.resources
+C:\Users\game-PC_Loeka\Desktop\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csproj.GenerateResource.cache
+C:\Users\game-PC_Loeka\Desktop\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csproj.CoreCompileInputs.cache
+C:\Users\game-PC_Loeka\Desktop\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.exe
+C:\Users\game-PC_Loeka\Desktop\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.pdb
+C:\Users\leerlingk004\Documents\loeka\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.exe.config
+C:\Users\leerlingk004\Documents\loeka\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.exe
+C:\Users\leerlingk004\Documents\loeka\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.pdb
+C:\Users\leerlingk004\Documents\loeka\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csprojAssemblyReference.cache
+C:\Users\leerlingk004\Documents\loeka\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.Form1.resources
+C:\Users\leerlingk004\Documents\loeka\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.Properties.Resources.resources
+C:\Users\leerlingk004\Documents\loeka\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csproj.GenerateResource.cache
+C:\Users\leerlingk004\Documents\loeka\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csproj.CoreCompileInputs.cache
+C:\Users\leerlingk004\Documents\loeka\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.exe
+C:\Users\leerlingk004\Documents\loeka\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.pdb
+C:\Users\loeka\Documents\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.exe.config
+C:\Users\loeka\Documents\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.exe
+C:\Users\loeka\Documents\colors - kopie - kopie - kopie - kopie - kopie\bin\Debug\colors.pdb
+C:\Users\loeka\Documents\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csprojAssemblyReference.cache
+C:\Users\loeka\Documents\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.Form1.resources
+C:\Users\loeka\Documents\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.Properties.Resources.resources
+C:\Users\loeka\Documents\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.csproj.GenerateResource.cache
+C:\Users\loeka\Documents\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.exe
+C:\Users\loeka\Documents\colors - kopie - kopie - kopie - kopie - kopie\obj\Debug\colors.pdb
